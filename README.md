@@ -46,5 +46,5 @@ I started by increasing kp, after getting oscillations, I started increasing kd 
 
 
 
-
+![alt txt](https://github.com/SmritiUMD/Udacity--Self-DrivingCarND-PID_controller-P8/blob/master/home/CarND-PID-Control-Project/PIdcontrol.gif)
 ---
